@@ -1,0 +1,32 @@
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 600px;
+  }
+  #cont {
+      margin: auto;
+      width: 50%;
+      margin-left: 34%; 
+  }
+  #city {
+      width: 60%;
+      height: 40px;
+      font-size: 16px;
+  }
+  button {
+      padding: 12px 24px;
+      font-size: 18px;
+      background-color: teal;
+      color: aliceblue;
+      border-radius: 10px;
+      margin-top: 20px;
+      margin-left: 150px;
+  }
+  
+  #mainbox{
+      width: 100%;
+      margin-top: 20px;
+     display: flex;
+     justify-content: space-between;
+  }
